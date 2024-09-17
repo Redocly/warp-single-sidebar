@@ -8,7 +8,7 @@ navbar:
   items:
     - page: tutorials/index.md
       label: Missions
-    - page: guides/quickstart.md
+    - page: guides/index.md
       label: Guides
     - page: apis/index.yaml
       label: API Reference
