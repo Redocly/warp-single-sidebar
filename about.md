@@ -31,7 +31,7 @@ A project with multiple sidebars would have multiple `sidebars.yaml` files (with
 They can be organized into folders as appropriate.
 See an example with multiple sidebars [on GitHub](https://github.com/redocly/warp-multi-sidebars).
 
-This project with a single sidebar is also available on Github at the [Warp Single-sidebar template](https://github.com/redocly/warp-single-sidebar).
+This project with a single sidebar is also available on GitHub at the [Warp Single-sidebar template](https://github.com/redocly/warp-single-sidebar).
 
 ```treeview
 ├── @theme
