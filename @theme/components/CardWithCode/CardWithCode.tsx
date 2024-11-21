@@ -75,7 +75,6 @@ const Column = styled.div<{ isLeftColumn?: boolean }>`
     display: flex;
     justify-content: space-between;
     width: inherit;
-    font-family: SF Pro Text;
     margin: 5px 10px 5px 16px;
 
     select {
