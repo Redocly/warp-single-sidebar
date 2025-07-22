@@ -1,8 +1,8 @@
 # reunite:
   # ignoreLint: true
   # ignoreLinkChecker: true
-extends:
-  - recommended
+# extends:
+#   - recommended
 rules:
   info-contact: error
 links:
