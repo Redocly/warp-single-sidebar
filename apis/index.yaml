@@ -3,9 +3,9 @@ info:
   title: Warp API
   description: API for managing and manipulating timelines with advanced time travel capabilities.
   version: 1.0.0
-  contact:
-    name: Warp API Support
-    email: support@warpapi.com
+  # contact:
+  #   name: Warp API Support
+  #   email: support@warpapi.com
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
