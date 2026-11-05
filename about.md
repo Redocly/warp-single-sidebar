@@ -35,14 +35,9 @@ This project with a single sidebar is also available on GitHub at the [Warp Sing
 
 ```treeview
 ├── @theme
-│   ├── Templates
-│   │   └── StepByStep.tsx
 │   ├── components
 │   │   └── CardWithCode
 │   │       └── CardWithCode.tsx
-│   ├── markdoc
-│   │   ├── components.tsx
-│   │   └── schema.ts
 │   └── styles.css
 ├── about.md
 ├── apis
